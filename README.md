@@ -1,8 +1,6 @@
 <div align="center">
   
-# Welcome to Jason's Github
-
-## I am interested in:
+# Welcome to Jason's Github. I am interested in:
   
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Fullstack+Development;AI%2FML+Engineering;Quantitative+Trading;Quantitative+Research" alt="Typing Animation" />
@@ -81,7 +79,7 @@ Feel free to reach out to me!
   <a href="mailto:jhg294@cornell.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/jason-guo-b17623272/>
+  <a href="https://www.linkedin.com/in/jason-guo-b17623272">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
