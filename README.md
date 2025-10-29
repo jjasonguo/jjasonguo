@@ -2,8 +2,6 @@
   
 # Welcome to Jason's Github
 
-### Student @ Cornell University
-
 ## I am interested in:
   
 <a href="https://git.io/typing-svg">
