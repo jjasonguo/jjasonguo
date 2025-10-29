@@ -1,10 +1,18 @@
 <div align="center">
   
-# Welcome to Jason's Github. I am interested in:
+# Welcome to Jason's Github.
   
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Fullstack+Development;AI%2FML+Engineering;Quantitative+Trading;Quantitative+Research" alt="Typing Animation" />
-</a>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+  <p style="margin: 0; font-size: 24px; font-family: 'Space Grotesk', sans-serif;">
+    I am currently interested in:&nbsp;
+  </p>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=0096FF&center=false&vCenter=true&width=435&lines=Fullstack+Development;AI%2FML+Engineering;Quantitative+Trading;Quantitative+Research" alt="Typing Animation" />
+  </a>
+  
+</div>
   
 </div>
 
