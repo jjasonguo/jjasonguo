@@ -3,6 +3,8 @@
 # Welcome to Jason's Github
 
 ### Student @ Cornell University
+
+## I am interested in:
   
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=Fullstack+Development;AI%2FML+Engineering;Quantitative+Trading;Quantitative+Research" alt="Typing Animation" />
