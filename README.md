@@ -40,7 +40,6 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </p>
 
-<details>
   <summary>Click to expand Frameworks & Libraries</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -53,9 +52,7 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </p>
-</details>
 
-<details>
   <summary>Click to expand Databases & Tools</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -66,7 +63,6 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
     <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Unix">
   </p>
-</details>
 
 ---
 
