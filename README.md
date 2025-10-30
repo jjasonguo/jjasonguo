@@ -24,8 +24,7 @@
 
 Here are the technologies I've been working with.
 
-<details>
-  <summary>Click to expand Languages</summary>
+  <summary>Languages</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -40,7 +39,6 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </p>
-</details>
 
 <details>
   <summary>Click to expand Frameworks & Libraries</summary>
