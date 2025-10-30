@@ -40,7 +40,7 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </p>
 
-  <summary>Click to expand Frameworks & Libraries</summary>
+  <summary>Frameworks & Libraries</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
@@ -53,7 +53,7 @@ Here are the technologies I've been working with.
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </p>
 
-  <summary>Click to expand Databases & Tools</summary>
+  <summary>Databases & Tools</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
