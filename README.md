@@ -70,7 +70,7 @@ Here are the technologies I've been working with.
 
 * 🚌 **[CornellGo!](https://github.com/cornell-dti/cornell-go)**: A mobile app for Cornell students (part of Cornell DTI).
 * 🏆 **[Derivatives Trading Algorithm](https://github.com/jjasonguo/ctc-derivatives-case)**: An algorithmic trading strategy that won $1,000 in a competition!
-* 🦆 **[Duck Duck Debug](https://github.com/AndrewG828/Duck_Duck_Debug)**: An AI-powered debugging assistant.
+* 🦆 **[Duck Duck Debug](https://github.com/jjasonguo/DuckDuckDebug)**: An AI-powered debugging assistant.
 * 🍔 **[Munch!](https://github.com/yufanhao/munch-backend)**: A social food-tracking application.
 
 ---
